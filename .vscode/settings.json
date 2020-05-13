@@ -1,4 +1,39 @@
 {
-	"dotnet-test-explorer.testProjectPath": "**/*.Tests.csproj"
+	"dotnet-test-explorer.testProjectPath": "**/*.Tests.csproj",
+	"cSpell.words": [
+		"Adicionar",
+		"Anonima",
+		"Apoio",
+		"Cobranca",
+		"Corretamente",
+		"Doacao",
+		"EXCEDER",
+		"INVALIDO",
+		"Igual",
+		"Invalida",
+		"LENTH",
+		"Limite",
+		"Maior",
+		"Maxlenght",
+		"Menor",
+		"Pagamento",
+		"Pessoais",
+		"Vaquinha",
+		"Xunit",
+		"atingido",
+		"caracteres",
+		"deve",
+		"est",
+		"está",
+		"foram",
+		"mais",
+		"obrigat",
+		"obrigatório",
+		"obrigatórios",
+		"possuir",
+		"rio",
+		"rios",
+		"somente"
+	]
 
 }
